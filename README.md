@@ -19,6 +19,10 @@ https://www.khanacademy.org/math/linear-algebra/matrix-transformations
 
 [Probability](https://www.khanacademy.org/math/statistics-probability/probability-library)
 - Calculus
+
+https://www.khanacademy.org/math/differential-calculus/dc-diff-intro
+
+https://www.khanacademy.org/math/differential-calculus/dc-chain
 ### Week 3
 - Data Processing with Python
 
