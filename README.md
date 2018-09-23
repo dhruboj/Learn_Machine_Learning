@@ -1,5 +1,6 @@
 # Learn_Machine_Learning
 Links to resources for my accelerated plan to learn machine learning
+Find the [blog post](https://intellipy.com/learn-machine-learning-in-three-months/)
 ## Month 1
 ### Week 1
 - Algebra
