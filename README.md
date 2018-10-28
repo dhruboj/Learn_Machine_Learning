@@ -46,7 +46,7 @@ https://classroom.udacity.com/courses/ud120
 
 https://developers.google.com/machine-learning/crash-course/
 ### Week 3-4
-- Implement one ML Project | Ideas are in the below link
+- Implement one ML Project
 ## Month 3
 ### Week 1-2
 - Intro to Deep Learning
